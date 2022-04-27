@@ -1,0 +1,33 @@
+2008-09-30 08:45:19,570 INFO -------- Starting BlueBox (mBluePoint) --------
+2008-09-30 08:45:19,575 INFO Restoring new index file "index.yaml.new"
+2008-09-30 08:45:19,749 INFO Uncaching 14.09.2008-00:10:20..
+2008-09-30 08:45:32,989 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:45:33,127 INFO Data backup saved.
+2008-09-30 08:45:39,827 INFO Caching 00:E0:03:55:42:D2 in memcache (DEMOCAMP).
+2008-09-30 08:45:50,139 INFO Caching 00:1C:9A:2A:96:DF in memcache (DEMOCAMP).
+2008-09-30 08:46:04,678 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:46:04,763 INFO Data backup saved.
+2008-09-30 08:46:35,838 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:46:35,956 INFO Data backup saved.
+2008-09-30 08:47:06,123 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:47:06,217 INFO Data backup saved.
+2008-09-30 08:47:37,542 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:47:37,691 INFO Data backup saved.
+2008-09-30 08:48:07,436 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:48:07,709 INFO Data backup saved.
+2008-09-30 08:48:22,721 INFO Uncaching 30.09.2008-08:45:50..
+2008-09-30 08:48:22,725 INFO Uncaching 30.09.2008-08:45:39..
+2008-09-30 08:48:37,373 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:48:37,538 INFO Data backup saved.
+2008-09-30 08:49:06,295 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:49:06,434 INFO Data backup saved.
+2008-09-30 08:49:37,148 INFO Obex Scan: ['NBlack', 'BlackZone']
+2008-09-30 08:49:37,482 INFO Data backup saved.
+2008-09-30 08:50:03,338 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:50:03,576 INFO Data backup saved.
+2008-09-30 08:50:33,453 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:50:34,132 INFO Data backup saved.
+2008-09-30 08:50:40,727 INFO Caching 00:E0:03:55:42:D2 in memcache (DEMOCAMP).
+2008-09-30 08:51:02,467 INFO Obex Scan: ['NBlack', 'BlackZone', 'GSM System']
+2008-09-30 08:51:02,677 INFO Data backup saved.
+2008-09-30 08:51:18,003 INFO Caching 00:1C:9A:2A:96:DF in memcache (DEMOCAMP).
